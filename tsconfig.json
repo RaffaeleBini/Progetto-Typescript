@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "target": "es6",                 // Specifica la versione ECMAScript di output
+    "module": "commonjs",            // Definisce il sistema di moduli da utilizzare
+    "outDir": "./dist",              // Percorso dove verranno salvati i file JavaScript compilati
+    "rootDir": "./src",              // Cartella contenente i file TypeScript sorgente
+    "strict": true,                  // Abilita una serie di restrizioni per migliorare la sicurezza del codice
+    "esModuleInterop": true,         // Abilita la compatibilità di importazione dei moduli ES6
+    "noImplicitAny": true,           // Impedisce dichiarazioni implicite di tipo "any"
+    "moduleResolution": "node",      // Strategia di risoluzione dei moduli
+    "sourceMap": true,               // Genera file .map per il debugging
+    "baseUrl": "./",                 // Imposta la base URL per la risoluzione dei moduli
+    "paths": {                       // Configura alias per importare moduli
+      "@models/*": ["models/*"],
+      "@controllers/*": ["controllers/*"]
+    },
+    "skipLibCheck": true,            // Salta la verifica dei file di definizione delle librerie
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": [
+    "src/**/*.ts"                    // Pattern di file per includere nella compilazione
+  ],
+  "exclude": [
+    "node_modules",                  // Esclude la cartella node_modules dalla compilazione
+    "**/*.test.ts"                   // Esclude tutti i file di test
+  ]
+}

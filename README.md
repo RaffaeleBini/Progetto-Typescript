@@ -1,6 +1,7 @@
 ![Logo](https://www.raffaelebini.com/assets/img/LogoRBScuroPiccolo.png)
 
 ![JavaScript](https://img.shields.io/badge/javascript-yellow?logo=javascript)
+![TypeScript](https://img.shields.io/badge/typescript-cyan?logo=typescript)
 
 # Typescript Project: Lifestyle Startup Operations Model
 This project involves the development of a system in TypeScript that models the operational structure of a start-up that facilitates citizens' access to state bonuses, focusing on the interactions between start-ups, state incentives and participating citizens.

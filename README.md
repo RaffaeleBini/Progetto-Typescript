@@ -14,7 +14,7 @@ The program implements the following features:
 - Test the logic of assigning incentives to startups and the participation of citizens in the promoted activities.
 
 ## CodePen Link
-[Click here to access the program]([dist/index.html](https://codepen.io/RaffaeleB/pen/yyBBOGj?editors=1112))
+[Click here to access the program]((https://codepen.io/RaffaeleB/pen/yyBBOGj?editors=1112))
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

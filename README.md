@@ -9,10 +9,15 @@ The project is published on CodePen.
 
 ## How it works
 The program implements the following features:
-- Instantiate some Startup objects to represent innovative enterprises in the field of sport.
-- Instantiate Incentive objects to represent the different state incentives available to promote physical activity.
-- Create an instance of the class Citizen for one or more citizens interested in participating in sports initiatives.
-- Test the logic of assigning incentives to startups and the participation of citizens in the promoted activities.
+- Instantiates some Startup objects to represent innovative enterprises in the field of sport.
+- Instantiates Incentive objects to represent the different state incentives available to promote physical activity.
+- Creates an instance of the class Citizen for one or more citizens interested in participating in sports initiatives.
+- Tests the logic of assigning incentives to startups and the participation of citizens in the promoted activities.
+
+It is possible to access the Program online i CodePen, followig the link below.
+Alternatively, it is possible to dowload the Javascript file containing the transpiled program:
+
+[Click here to download](https://github.com/RaffaeleBini/Progetto-Typescript/blob/4bcb5740f00a5d8733ea1c383b57f72088c0a2c7/src/index.js)
 
 ## CodePen Link
 [Click here to access the program](https://codepen.io/RaffaeleB/pen/yyBBOGj?editors=1112)
